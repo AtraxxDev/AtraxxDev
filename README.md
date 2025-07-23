@@ -10,17 +10,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/elliotreyes/">
-    <img src="https://img.shields.io/badge/LinkedIn-Elliot%20Reyes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://atraxxdev.itch.io/">
-    <img src="https://img.shields.io/badge/Itch.io-AtraxxDev-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🚀 Sobre mí
 
 Soy **Elliot Reyes**, conocido como **Atraxx**, desarrollador de software y creador de videojuegos con pasión por convertir ideas en experiencias interactivas memorables.
@@ -126,6 +115,17 @@ Sitios responsivos en HTML, CSS, JavaScript y Bootstrap para instituciones, enfo
 ---
 
 ## 📬 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/elliotreyes/">
+    <img src="https://img.shields.io/badge/LinkedIn-Elliot%20Reyes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://atraxxdev.itch.io/">
+    <img src="https://img.shields.io/badge/Itch.io-AtraxxDev-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="24" />
