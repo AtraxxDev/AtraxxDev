@@ -83,16 +83,6 @@ Desde **aplicaciones de escritorio en .NET** hasta **juegos en Unity (VR, Mobile
 
 ---
 
-### 🧩 **Metodologías y buenas prácticas**
-<p align="center">
-  <img src="https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Patrones%20de%20Diseño-FF6F00?style=for-the-badge&logo=design&logoColor=white" />
-</p>
-
-
----
-
 ## 🌟 Proyectos destacados
 
 🎮 [**Sombras del Recuerdo**](https://atraxxdev.itch.io/)  
