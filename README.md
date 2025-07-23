@@ -11,40 +11,49 @@
 ---
 
 <p align="center">
-<a href="https://www.linkedin.com/in/tuusuario/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://atrxx.itch.io/"><img src="https://img.shields.io/badge/Itch.io-Juegos-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
-<a href="mailto:tuemail@correo.com"><img src="https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/elliotreyes/">
+    <img src="https://img.shields.io/badge/LinkedIn-Elliot%20Reyes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://atraxxdev.itch.io/">
+    <img src="https://img.shields.io/badge/Itch.io-AtraxxDev-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy **Elliot Reyes**, conocido como **Atraxx** en el mundo del desarrollo. Me apasiona construir proyectos que combinan funcionalidad, rendimiento y una experiencia de usuario memorable, desde aplicaciones de escritorio en .NET hasta videojuegos en Unity (VR, Mobile y 2D/3D).
+Soy **Elliot Reyes**, conocido como **Atraxx**, desarrollador de software y creador de videojuegos con pasión por convertir ideas en experiencias interactivas memorables.
 
-Siempre busco aprender algo nuevo mientras disfruto el proceso de crear, resolver problemas de forma creativa y compartir lo que aprendo con otros.
+Desde **aplicaciones de escritorio en .NET** hasta **juegos en Unity (VR, Mobile, 2D/3D)**, disfruto resolver problemas con creatividad y eficiencia mientras aprendo y comparto conocimiento con la comunidad.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-- **Lenguajes:** C#, JavaScript, HTML, CSS
-- **Frameworks:** .NET (Windows Forms), Bootstrap
-- **Game Dev:** Unity (2D, 3D, VR, Mobile)
-- **Control de versiones:** Git, GitHub
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
 ## 🌟 Proyectos destacados
 
-🎮 **Sombras del Recuerdo**  
-Juego de terror psicológico estilo PSX en Unity con estética retro en blanco y negro, exploración y narrativa inmersiva.
+🎮 [**Sombras del Recuerdo**](https://atraxxdev.itch.io/)  
+Juego de terror psicológico estilo PSX en Unity, con estética retro en blanco y negro, exploración y narrativa inmersiva.
 
-🖥️ **Herramientas de automatización**  
-Aplicaciones en .NET (Windows Forms) que optimizan tareas repetitivas en PC con interfaces intuitivas.
+🖥️ [**Herramientas de Automatización**](https://github.com/AtraxxDev)  
+Aplicaciones en .NET (Windows Forms) que optimizan tareas repetitivas en PC con interfaces intuitivas y eficientes.
 
-🌐 **Webs educativas**  
-Sitios responsivos en HTML, CSS, JavaScript y Bootstrap para instituciones, con enfoque en claridad y accesibilidad.
+🌐 [**Webs Educativas**](https://github.com/AtraxxDev)  
+Sitios responsivos en HTML, CSS, JavaScript y Bootstrap para instituciones, enfocados en claridad, accesibilidad y rendimiento.
 
 ---
 
@@ -56,12 +65,13 @@ Sitios responsivos en HTML, CSS, JavaScript y Bootstrap para instituciones, con 
 
 ---
 
-## 📬 Conecta conmigo
+## 📬 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/elliotreyes//"><img src="https://img.shields.io/badge/LinkedIn-Visita-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://atraxxdev.itch.io/"><img src="https://img.shields.io/badge/Itch.io-Jugar-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
-  <a href="mailto:gametraxworks@gmail.com"><img src="https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="24" />
+  <span style="font-size: 18px; margin-left: 8px;">
+    <strong>gametraxworks@gmail.com</strong>
+  </span>
 </p>
 
 ---
