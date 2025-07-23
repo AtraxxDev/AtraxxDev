@@ -33,45 +33,64 @@ Desde **aplicaciones de escritorio en .NET** hasta **juegos en Unity (VR, Mobile
 
 ## 🛠️ Tecnologías y herramientas
 
-### 🖥️ **Lenguajes de programación**
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Eleventy-000000?style=for-the-badge" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Nunjucks-5B83AD?style=for-the-badge&logo=nunjucks&logoColor=white" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/GitHub%20Desktop-4183C4?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Clean%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=white" />
+    </td>
+  </tr>
 
----
-
-### 🎮 **Desarrollo de videojuegos**
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-</p>
-
----
-
-### 🌐 **Frameworks y herramientas web**
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
----
-
-### 🗄️ **Bases de datos**
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
----
-
-### 🛠️ **Control de versiones**
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Desktop-4183C4?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+</table>
 
 ---
 
