@@ -14,11 +14,14 @@
 
 Soy **Elliot Reyes**, conocido como **Atraxx**, desarrollador de software y creador de videojuegos con pasión por convertir ideas en experiencias interactivas memorables.
 
-Desde **aplicaciones de escritorio en .NET** hasta **juegos en Unity (VR, Mobile, 2D/3D)**, disfruto resolver problemas con creatividad y eficiencia mientras aprendo y comparto conocimiento con la comunidad.
+Soy proactivo, organizado y responsable, con iniciativa propia y gran facilidad para adaptarme a nuevos entornos y aprender rápidamente. Cuento con experiencia sólida en el desarrollo de videojuegos utilizando **Unity**, trabajando en proyectos **2D, 3D, Android y VR.**
+
+Me destaco por mi capacidad para colaborar eficazmente en equipo y por mantener la calidad y el rendimiento aun bajo presión, especialmente en contextos de entregas ajustadas.
+
+Mi objetivo es seguir creciendo profesionalmente enfrentando desafíos técnicos que impulsen tanto mi desarrollo como mi aporte a proyectos innovadores.
 
 ---
 
----
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -96,11 +99,14 @@ Sitios responsivos en HTML, CSS, JavaScript y Bootstrap para instituciones, enfo
 
 ---
 
-## 📈 Mi enfoque
+## Mi enfoque
 
-✨ Crear experiencias interactivas memorables  
-✨ Resolver problemas con creatividad y eficiencia  
-✨ Aprender constantemente y compartir con la comunidad
+- -> **Calidad y eficiencia:** Priorizar código limpio, funcional y bien optimizado.  
+- -> **Colaboración:** Trabajar en equipo con comunicación clara y apoyo mutuo.  
+- -> **Aprendizaje continuo:** Mantenerme siempre actualizado y abierto a nuevas tecnologías.  
+- -> **Creatividad aplicada:** Resolver problemas con soluciones innovadoras y prácticas.  
+- -> **Orientación a resultados:** Entregar proyectos que aporten valor real y cumplan plazos.  
+
 
 ---
 
@@ -126,4 +132,4 @@ Sitios responsivos en HTML, CSS, JavaScript y Bootstrap para instituciones, enfo
 
 ---
 
-> *“Construir código es bueno, pero construir experiencias memorables es mejor.”* – Atraxx
+> *“La perfección habla sobre como uno se despeña en cualquier proyecto”*
